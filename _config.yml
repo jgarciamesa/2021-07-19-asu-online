@@ -101,10 +101,10 @@ workshop_site: "https://carpentries.github.io/workshop-template"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
-pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug=2021-07-19-asu-online"
-post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug=2021-07-19-asu-online"
-instructor_pre_survey: "https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id=2021-07-19-asu-online"
-instructor_post_survey: "https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=2021-07-19-asu-online"
+pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug=2021-08-16-asu-online"
+post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug=2021-08-16-asu-online"
+instructor_pre_survey: "https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id=2021-08-16-asu-online"
+instructor_post_survey: "https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=2021-08-16-asu-online"
 
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
